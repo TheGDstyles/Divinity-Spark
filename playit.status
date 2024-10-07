@@ -1,34 +1,929 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728341913518 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728342724065 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728341916590 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728342727134 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728341919660 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728342730201 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728341922747 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728342733260 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728341925842 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728342736332 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728341928918 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728342739393 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728341931984 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728342742458 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342745533 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342748595 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342752744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342755813 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342758872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342761952 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342765106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342768169 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342771227 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342774291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342777356 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342780416 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342783485 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342786564 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342789624 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342792720 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342795784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342798958 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342802029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342805096 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342808160 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342811236 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342814304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342817369 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342822536 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342825608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342828678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342831751 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342835130 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342838209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342841292 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342844360 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342847421 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342850492 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342853561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342856628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342859706 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342862987 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342866138 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342869208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342872271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342875344 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342878411 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342881480 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342884561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342887658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342890727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342893797 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342896856 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342899919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342902979 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342906061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342909182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342912255 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342915323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342918399 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342921470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342924547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342927612 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342930674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342933771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342936891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342940030 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342943104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342946175 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342949583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342953280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342956346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342959413 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342962489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342965555 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342969540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342972623 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342975690 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342978758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342981817 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342984885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342987952 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342991020 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342994083 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728342997156 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343000220 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343003289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343006539 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343009614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343012688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343015756 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343018819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343021888 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343024960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343028036 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343031102 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343034196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343037269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343040334 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343043407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343046489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343049568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343052644 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343055719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343058784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343062087 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343065178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343068260 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343073474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343076565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343079632 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343082696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343085767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343088852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343091938 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343095003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343098073 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343103410 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343106475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343109564 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343112637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343116424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343120319 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343123394 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343126467 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343129541 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343132608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343135678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343138756 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343141835 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343146721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343149800 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343152886 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343156615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343159701 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343162788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343165852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343168940 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343172018 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343175119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343179770 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343182844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343185913 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343188974 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343192042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343195112 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343198193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343202546 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343205646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343208743 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343213050 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343216119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343219184 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343222351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343225425 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343228495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343231569 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343234651 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343237719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343240809 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343243895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343246975 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343250038 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343253108 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343256179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343259250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343262315 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343266987 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343270052 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343273114 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343276196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343279266 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343282331 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343285404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343288466 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343291538 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343294615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343297679 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343300752 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343303832 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343306911 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343310022 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+story-badly.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728343313095 tunnel running, 1 tunnels registered
 
 
 TUNNELS
